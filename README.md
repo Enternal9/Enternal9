@@ -1,16 +1,23 @@
-### Hi there 👋
+| 这个作业属于哪个课程 |<[网工1934](https://edu.cnblogs.com/campus/gdgy/networkengineering1934-Softwareengineering)>|
+|----|----|
+| 这个作业要求在哪里|<[作业要求](https://edu.cnblogs.com/campus/gdgy/networkengineering1934-Softwareengineering/homework/12136) >|
+| 这个作业的目标 | <介绍自己，让别人认识自己；阐述自己对软工的基本认识；初步尝试写博客；GitHub的使用> |
+自我介绍
+大家好，我是来自广东工业大学网络工程4班的李文锋，喜欢的方面有很多，平时喜欢看的视频涉及但不仅包括医疗，法律，哲学，社会安全，社会现象等等。目前对于信息安全，网络安全有很高的兴趣，希望在大三这一年中能够学习到一些相关的知识，为以后工作打下坚实的基础。当然平时娱乐方式也有很多，比如看看动画片，听听音乐，打打游戏等
+最想弄懂的5个问题
+1.在一个软件开发的过程中，每个人所扮演的角色以及对应的工作的差别
 
-<!--
-**Enternal9/Enternal9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2.在开发过程中，一个团队不同工作需要的人的人数大概是多少
 
-Here are some ideas to get you started:
+3.在实际开发中，与理论学习上的差距能有多大
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+4.在一个软件周期中，耗费时间最长，资源最多的哪一个部分
+
+5.在未来的软件开发过程中，是否会有更优秀的开发流程结构
+
+想得到的收获
+
+能系统学习开发程序的一个具体流程，掌握应该具有的知识。并且拥有对软件开发的一个理解
+
+
+
